@@ -15,9 +15,11 @@
 
 | 단계 | 프롬프트 | 결과 및 개선점 |
 |------|----------------------|--------|
-| **초안** | travel app UI, blue color, simple | 너무 추상적임, 버튼 위치 이상함 |
-| **수정1**&nbsp;&nbsp; | Mobile app UI design for flight booking, clean minimal style, blue and white theme, bottom navigation bar | 레이아웃 개선, 텍스트가 외계어처럼 나옴 |
-| **최종** | Mobile app UI, flight booking, minimal, blue white, bottom nav, high fidelity, Figma style | 일관된 스타일, Figma에서 최종 적으로 텍스트 영역을 덮는 방식으로 재수정 진행 |
+| **초안** |  |  |
+| **추가1<br>(GPT Image 2 사용)** | 1. 전체 한글 출력<br>2.  학습하기 화면 단어 밑에 발음 기호 추가<br>3. 설정 화면 일일 학습 목표량 설정 추가<br>4. 여행지 영어권 국가로 변경 | 1. 전체 한글 출력<br>2.  학습하기 화면 단어 밑에 발음 기호 추가<br>3. 설정 화면 일일 학습 목표량 설정 추가<br>4. 여행지 영어권 국가로 변경 |
+| **추가2<br>(GPT Image 2 사용)** | 1. 랭킹 화면 순위표 헤더 추가 | 1. 랭킹 화면 순위표 헤더 추가 |
+| **추가3<br>(Nano Banana 2 사용)** | 1. 카테고리 화면 아래 더보기 추가<br>2. 단어 학습 화면 "check" -> 체크 표시 아이콘으로 변경 |1. 카테고리 화면 아래 더보기 추가<br>2. 단어 학습 화면 "check" -> 체크 표시 아이콘으로 변경 |
+| **최종** | | |
 
 
 <br><br>
